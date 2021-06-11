@@ -1,0 +1,33 @@
+{
+    "client": {
+        "title": "客戶端"
+    },
+    "user": {
+        "title": "會員",
+        "uid": "識別碼",
+        "account": "帳號",
+        "password": "密碼",
+        "email": "信箱"
+    },
+    "menu": {
+        "home": "首頁",
+        "fintech": "平台登入",
+        "bet": "彩票登入",
+        "game": "遊戲"
+    },
+    "bet": {
+        "menu": {
+            "gamelist": "遊戲列表",
+            "gamerule": "遊戲規則",
+            "bet": "下注"
+        }
+    },
+    "page": {
+        "index": "這是{name}頁面."
+    },
+    "button": {
+        "login": "登入",
+        "bet": "下注"
+    },
+    "test": "測試"
+}

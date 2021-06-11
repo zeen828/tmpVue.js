@@ -1,0 +1,33 @@
+{
+    "client": {
+        "title": "Client"
+    },
+    "user": {
+        "title": "User",
+        "uid": "Uid",
+        "account": "Account",
+        "password": "Password",
+        "email": "E-mail"
+    },
+    "menu": {
+        "home": "Home",
+        "fintech": "Login",
+        "bet": "Bet Login",
+        "game": "Game"
+    },
+    "bet": {
+        "menu": {
+            "gamelist": "Game List",
+            "gamerule": "Game Rule",
+            "bet": "Bet"
+        }
+    },
+    "page": {
+        "index": "This is an {name} page."
+    },
+    "button": {
+        "login": "Login",
+        "bet": "Bet"
+    },
+    "test": "Test"
+}
